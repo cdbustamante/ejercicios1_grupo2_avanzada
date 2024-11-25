@@ -1,6 +1,9 @@
-# ejercicios1
+# ejercicios de progamacion avanzada
 
-A new Flutter project.
+Integrantes:
+Anchapaxi Dayana
+Bustamante Cristian
+Reyes Andy
 
 ## Getting Started
 
