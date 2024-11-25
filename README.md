@@ -1,4 +1,4 @@
-# ejercicios de progamacion avanzada
+# ejercicios de programacion avanzada
 
 Integrantes:
 Anchapaxi Dayana
